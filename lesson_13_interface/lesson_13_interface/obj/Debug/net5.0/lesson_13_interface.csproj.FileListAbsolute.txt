@@ -1,0 +1,16 @@
+/home/aitemir/RiderProjects/lesson_13_interface/lesson_13_interface/bin/Debug/net5.0/lesson_13_interface
+/home/aitemir/RiderProjects/lesson_13_interface/lesson_13_interface/bin/Debug/net5.0/lesson_13_interface.deps.json
+/home/aitemir/RiderProjects/lesson_13_interface/lesson_13_interface/bin/Debug/net5.0/lesson_13_interface.runtimeconfig.json
+/home/aitemir/RiderProjects/lesson_13_interface/lesson_13_interface/bin/Debug/net5.0/lesson_13_interface.runtimeconfig.dev.json
+/home/aitemir/RiderProjects/lesson_13_interface/lesson_13_interface/bin/Debug/net5.0/lesson_13_interface.dll
+/home/aitemir/RiderProjects/lesson_13_interface/lesson_13_interface/bin/Debug/net5.0/ref/lesson_13_interface.dll
+/home/aitemir/RiderProjects/lesson_13_interface/lesson_13_interface/bin/Debug/net5.0/lesson_13_interface.pdb
+/home/aitemir/RiderProjects/lesson_13_interface/lesson_13_interface/obj/Debug/net5.0/lesson_13_interface.csproj.AssemblyReference.cache
+/home/aitemir/RiderProjects/lesson_13_interface/lesson_13_interface/obj/Debug/net5.0/lesson_13_interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/aitemir/RiderProjects/lesson_13_interface/lesson_13_interface/obj/Debug/net5.0/lesson_13_interface.AssemblyInfoInputs.cache
+/home/aitemir/RiderProjects/lesson_13_interface/lesson_13_interface/obj/Debug/net5.0/lesson_13_interface.AssemblyInfo.cs
+/home/aitemir/RiderProjects/lesson_13_interface/lesson_13_interface/obj/Debug/net5.0/lesson_13_interface.csproj.CoreCompileInputs.cache
+/home/aitemir/RiderProjects/lesson_13_interface/lesson_13_interface/obj/Debug/net5.0/lesson_13_interface.dll
+/home/aitemir/RiderProjects/lesson_13_interface/lesson_13_interface/obj/Debug/net5.0/ref/lesson_13_interface.dll
+/home/aitemir/RiderProjects/lesson_13_interface/lesson_13_interface/obj/Debug/net5.0/lesson_13_interface.pdb
+/home/aitemir/RiderProjects/lesson_13_interface/lesson_13_interface/obj/Debug/net5.0/lesson_13_interface.genruntimeconfig.cache

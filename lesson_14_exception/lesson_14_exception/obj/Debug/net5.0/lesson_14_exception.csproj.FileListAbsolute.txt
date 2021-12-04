@@ -1,0 +1,16 @@
+/home/aitemir/RiderProjects/lesson_14_exception/lesson_14_exception/bin/Debug/net5.0/lesson_14_exception
+/home/aitemir/RiderProjects/lesson_14_exception/lesson_14_exception/bin/Debug/net5.0/lesson_14_exception.deps.json
+/home/aitemir/RiderProjects/lesson_14_exception/lesson_14_exception/bin/Debug/net5.0/lesson_14_exception.runtimeconfig.json
+/home/aitemir/RiderProjects/lesson_14_exception/lesson_14_exception/bin/Debug/net5.0/lesson_14_exception.runtimeconfig.dev.json
+/home/aitemir/RiderProjects/lesson_14_exception/lesson_14_exception/bin/Debug/net5.0/lesson_14_exception.dll
+/home/aitemir/RiderProjects/lesson_14_exception/lesson_14_exception/bin/Debug/net5.0/ref/lesson_14_exception.dll
+/home/aitemir/RiderProjects/lesson_14_exception/lesson_14_exception/bin/Debug/net5.0/lesson_14_exception.pdb
+/home/aitemir/RiderProjects/lesson_14_exception/lesson_14_exception/obj/Debug/net5.0/lesson_14_exception.csproj.AssemblyReference.cache
+/home/aitemir/RiderProjects/lesson_14_exception/lesson_14_exception/obj/Debug/net5.0/lesson_14_exception.GeneratedMSBuildEditorConfig.editorconfig
+/home/aitemir/RiderProjects/lesson_14_exception/lesson_14_exception/obj/Debug/net5.0/lesson_14_exception.AssemblyInfoInputs.cache
+/home/aitemir/RiderProjects/lesson_14_exception/lesson_14_exception/obj/Debug/net5.0/lesson_14_exception.AssemblyInfo.cs
+/home/aitemir/RiderProjects/lesson_14_exception/lesson_14_exception/obj/Debug/net5.0/lesson_14_exception.csproj.CoreCompileInputs.cache
+/home/aitemir/RiderProjects/lesson_14_exception/lesson_14_exception/obj/Debug/net5.0/lesson_14_exception.dll
+/home/aitemir/RiderProjects/lesson_14_exception/lesson_14_exception/obj/Debug/net5.0/ref/lesson_14_exception.dll
+/home/aitemir/RiderProjects/lesson_14_exception/lesson_14_exception/obj/Debug/net5.0/lesson_14_exception.pdb
+/home/aitemir/RiderProjects/lesson_14_exception/lesson_14_exception/obj/Debug/net5.0/lesson_14_exception.genruntimeconfig.cache

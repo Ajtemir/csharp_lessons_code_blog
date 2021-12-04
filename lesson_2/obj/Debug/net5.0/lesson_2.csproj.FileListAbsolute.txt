@@ -1,0 +1,16 @@
+/home/aitemir/csharp_cmd/lessons/lesson_2/bin/Debug/net5.0/lesson_2
+/home/aitemir/csharp_cmd/lessons/lesson_2/bin/Debug/net5.0/lesson_2.deps.json
+/home/aitemir/csharp_cmd/lessons/lesson_2/bin/Debug/net5.0/lesson_2.runtimeconfig.json
+/home/aitemir/csharp_cmd/lessons/lesson_2/bin/Debug/net5.0/lesson_2.runtimeconfig.dev.json
+/home/aitemir/csharp_cmd/lessons/lesson_2/bin/Debug/net5.0/lesson_2.dll
+/home/aitemir/csharp_cmd/lessons/lesson_2/bin/Debug/net5.0/ref/lesson_2.dll
+/home/aitemir/csharp_cmd/lessons/lesson_2/bin/Debug/net5.0/lesson_2.pdb
+/home/aitemir/csharp_cmd/lessons/lesson_2/obj/Debug/net5.0/lesson_2.csproj.AssemblyReference.cache
+/home/aitemir/csharp_cmd/lessons/lesson_2/obj/Debug/net5.0/lesson_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/aitemir/csharp_cmd/lessons/lesson_2/obj/Debug/net5.0/lesson_2.AssemblyInfoInputs.cache
+/home/aitemir/csharp_cmd/lessons/lesson_2/obj/Debug/net5.0/lesson_2.AssemblyInfo.cs
+/home/aitemir/csharp_cmd/lessons/lesson_2/obj/Debug/net5.0/lesson_2.csproj.CoreCompileInputs.cache
+/home/aitemir/csharp_cmd/lessons/lesson_2/obj/Debug/net5.0/lesson_2.dll
+/home/aitemir/csharp_cmd/lessons/lesson_2/obj/Debug/net5.0/ref/lesson_2.dll
+/home/aitemir/csharp_cmd/lessons/lesson_2/obj/Debug/net5.0/lesson_2.pdb
+/home/aitemir/csharp_cmd/lessons/lesson_2/obj/Debug/net5.0/lesson_2.genruntimeconfig.cache

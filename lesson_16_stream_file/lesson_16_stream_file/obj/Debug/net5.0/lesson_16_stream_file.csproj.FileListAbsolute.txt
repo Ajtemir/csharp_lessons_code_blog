@@ -1,0 +1,16 @@
+/home/aitemir/RiderProjects/lesson_16_stream_file/lesson_16_stream_file/bin/Debug/net5.0/lesson_16_stream_file
+/home/aitemir/RiderProjects/lesson_16_stream_file/lesson_16_stream_file/bin/Debug/net5.0/lesson_16_stream_file.deps.json
+/home/aitemir/RiderProjects/lesson_16_stream_file/lesson_16_stream_file/bin/Debug/net5.0/lesson_16_stream_file.runtimeconfig.json
+/home/aitemir/RiderProjects/lesson_16_stream_file/lesson_16_stream_file/bin/Debug/net5.0/lesson_16_stream_file.runtimeconfig.dev.json
+/home/aitemir/RiderProjects/lesson_16_stream_file/lesson_16_stream_file/bin/Debug/net5.0/lesson_16_stream_file.dll
+/home/aitemir/RiderProjects/lesson_16_stream_file/lesson_16_stream_file/bin/Debug/net5.0/ref/lesson_16_stream_file.dll
+/home/aitemir/RiderProjects/lesson_16_stream_file/lesson_16_stream_file/bin/Debug/net5.0/lesson_16_stream_file.pdb
+/home/aitemir/RiderProjects/lesson_16_stream_file/lesson_16_stream_file/obj/Debug/net5.0/lesson_16_stream_file.csproj.AssemblyReference.cache
+/home/aitemir/RiderProjects/lesson_16_stream_file/lesson_16_stream_file/obj/Debug/net5.0/lesson_16_stream_file.GeneratedMSBuildEditorConfig.editorconfig
+/home/aitemir/RiderProjects/lesson_16_stream_file/lesson_16_stream_file/obj/Debug/net5.0/lesson_16_stream_file.AssemblyInfoInputs.cache
+/home/aitemir/RiderProjects/lesson_16_stream_file/lesson_16_stream_file/obj/Debug/net5.0/lesson_16_stream_file.AssemblyInfo.cs
+/home/aitemir/RiderProjects/lesson_16_stream_file/lesson_16_stream_file/obj/Debug/net5.0/lesson_16_stream_file.csproj.CoreCompileInputs.cache
+/home/aitemir/RiderProjects/lesson_16_stream_file/lesson_16_stream_file/obj/Debug/net5.0/lesson_16_stream_file.dll
+/home/aitemir/RiderProjects/lesson_16_stream_file/lesson_16_stream_file/obj/Debug/net5.0/ref/lesson_16_stream_file.dll
+/home/aitemir/RiderProjects/lesson_16_stream_file/lesson_16_stream_file/obj/Debug/net5.0/lesson_16_stream_file.pdb
+/home/aitemir/RiderProjects/lesson_16_stream_file/lesson_16_stream_file/obj/Debug/net5.0/lesson_16_stream_file.genruntimeconfig.cache

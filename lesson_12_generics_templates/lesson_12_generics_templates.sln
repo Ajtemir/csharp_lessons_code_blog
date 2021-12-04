@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson_12_generics_templates", "lesson_12_generics_templates\lesson_12_generics_templates.csproj", "{F1829DA7-FEC7-484E-B3A1-347DC97CA350}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1829DA7-FEC7-484E-B3A1-347DC97CA350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1829DA7-FEC7-484E-B3A1-347DC97CA350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1829DA7-FEC7-484E-B3A1-347DC97CA350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1829DA7-FEC7-484E-B3A1-347DC97CA350}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
