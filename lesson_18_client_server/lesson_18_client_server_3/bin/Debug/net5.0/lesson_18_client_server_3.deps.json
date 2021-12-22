@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "lesson_18_client_server_3/1.0.0": {
+        "runtime": {
+          "lesson_18_client_server_3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lesson_18_client_server_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

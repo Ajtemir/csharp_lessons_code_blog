@@ -1,0 +1,16 @@
+/home/aitemir/csharp_cmd/lessons/lesson_18_client_server/lesson_18_client_server_3/obj/Debug/net5.0/lesson_18_client_server_3.csproj.AssemblyReference.cache
+/home/aitemir/csharp_cmd/lessons/lesson_18_client_server/lesson_18_client_server_3/obj/Debug/net5.0/lesson_18_client_server_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/aitemir/csharp_cmd/lessons/lesson_18_client_server/lesson_18_client_server_3/obj/Debug/net5.0/lesson_18_client_server_3.AssemblyInfoInputs.cache
+/home/aitemir/csharp_cmd/lessons/lesson_18_client_server/lesson_18_client_server_3/obj/Debug/net5.0/lesson_18_client_server_3.AssemblyInfo.cs
+/home/aitemir/csharp_cmd/lessons/lesson_18_client_server/lesson_18_client_server_3/obj/Debug/net5.0/lesson_18_client_server_3.csproj.CoreCompileInputs.cache
+/home/aitemir/csharp_cmd/lessons/lesson_18_client_server/lesson_18_client_server_3/bin/Debug/net5.0/lesson_18_client_server_3
+/home/aitemir/csharp_cmd/lessons/lesson_18_client_server/lesson_18_client_server_3/bin/Debug/net5.0/lesson_18_client_server_3.deps.json
+/home/aitemir/csharp_cmd/lessons/lesson_18_client_server/lesson_18_client_server_3/bin/Debug/net5.0/lesson_18_client_server_3.runtimeconfig.json
+/home/aitemir/csharp_cmd/lessons/lesson_18_client_server/lesson_18_client_server_3/bin/Debug/net5.0/lesson_18_client_server_3.runtimeconfig.dev.json
+/home/aitemir/csharp_cmd/lessons/lesson_18_client_server/lesson_18_client_server_3/bin/Debug/net5.0/lesson_18_client_server_3.dll
+/home/aitemir/csharp_cmd/lessons/lesson_18_client_server/lesson_18_client_server_3/bin/Debug/net5.0/ref/lesson_18_client_server_3.dll
+/home/aitemir/csharp_cmd/lessons/lesson_18_client_server/lesson_18_client_server_3/bin/Debug/net5.0/lesson_18_client_server_3.pdb
+/home/aitemir/csharp_cmd/lessons/lesson_18_client_server/lesson_18_client_server_3/obj/Debug/net5.0/lesson_18_client_server_3.dll
+/home/aitemir/csharp_cmd/lessons/lesson_18_client_server/lesson_18_client_server_3/obj/Debug/net5.0/ref/lesson_18_client_server_3.dll
+/home/aitemir/csharp_cmd/lessons/lesson_18_client_server/lesson_18_client_server_3/obj/Debug/net5.0/lesson_18_client_server_3.pdb
+/home/aitemir/csharp_cmd/lessons/lesson_18_client_server/lesson_18_client_server_3/obj/Debug/net5.0/lesson_18_client_server_3.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9yc3zD3E9Y7a4Q+MrswIrO4WsZINSlVwYlODru1hQ/bqSW2iJA6bzsR8U2bfsZGSnAbmexZW6UGo/l0yXXRgSg==",
+  "success": true,
+  "projectFilePath": "/home/aitemir/csharp_cmd/lessons/lesson_19_sql_entity/lesson_19_sql_entity_1/lesson_19_sql_entity_1/lesson_19_sql_entity_1.csproj",
+  "expectedPackageFiles": [
+    "/home/aitemir/.nuget/packages/npgsql/6.0.1/npgsql.6.0.1.nupkg.sha512",
+    "/home/aitemir/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
