@@ -1,0 +1,16 @@
+/home/aitemir/csharp_cmd/lessons/lesson_29_object/lesson_29_object_1/lesson_29_object_1/bin/Debug/net5.0/lesson_29_object_1
+/home/aitemir/csharp_cmd/lessons/lesson_29_object/lesson_29_object_1/lesson_29_object_1/bin/Debug/net5.0/lesson_29_object_1.deps.json
+/home/aitemir/csharp_cmd/lessons/lesson_29_object/lesson_29_object_1/lesson_29_object_1/bin/Debug/net5.0/lesson_29_object_1.runtimeconfig.json
+/home/aitemir/csharp_cmd/lessons/lesson_29_object/lesson_29_object_1/lesson_29_object_1/bin/Debug/net5.0/lesson_29_object_1.runtimeconfig.dev.json
+/home/aitemir/csharp_cmd/lessons/lesson_29_object/lesson_29_object_1/lesson_29_object_1/bin/Debug/net5.0/lesson_29_object_1.dll
+/home/aitemir/csharp_cmd/lessons/lesson_29_object/lesson_29_object_1/lesson_29_object_1/bin/Debug/net5.0/ref/lesson_29_object_1.dll
+/home/aitemir/csharp_cmd/lessons/lesson_29_object/lesson_29_object_1/lesson_29_object_1/bin/Debug/net5.0/lesson_29_object_1.pdb
+/home/aitemir/csharp_cmd/lessons/lesson_29_object/lesson_29_object_1/lesson_29_object_1/obj/Debug/net5.0/lesson_29_object_1.csproj.AssemblyReference.cache
+/home/aitemir/csharp_cmd/lessons/lesson_29_object/lesson_29_object_1/lesson_29_object_1/obj/Debug/net5.0/lesson_29_object_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/aitemir/csharp_cmd/lessons/lesson_29_object/lesson_29_object_1/lesson_29_object_1/obj/Debug/net5.0/lesson_29_object_1.AssemblyInfoInputs.cache
+/home/aitemir/csharp_cmd/lessons/lesson_29_object/lesson_29_object_1/lesson_29_object_1/obj/Debug/net5.0/lesson_29_object_1.AssemblyInfo.cs
+/home/aitemir/csharp_cmd/lessons/lesson_29_object/lesson_29_object_1/lesson_29_object_1/obj/Debug/net5.0/lesson_29_object_1.csproj.CoreCompileInputs.cache
+/home/aitemir/csharp_cmd/lessons/lesson_29_object/lesson_29_object_1/lesson_29_object_1/obj/Debug/net5.0/lesson_29_object_1.dll
+/home/aitemir/csharp_cmd/lessons/lesson_29_object/lesson_29_object_1/lesson_29_object_1/obj/Debug/net5.0/ref/lesson_29_object_1.dll
+/home/aitemir/csharp_cmd/lessons/lesson_29_object/lesson_29_object_1/lesson_29_object_1/obj/Debug/net5.0/lesson_29_object_1.pdb
+/home/aitemir/csharp_cmd/lessons/lesson_29_object/lesson_29_object_1/lesson_29_object_1/obj/Debug/net5.0/lesson_29_object_1.genruntimeconfig.cache

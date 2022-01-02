@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nyCQNurILOLvp2A0/re5Jzvl0rtUQHnM6/dJnXbn0rnUZVQ88gRVGXYb9Netw3uMoFIrOv3mO2Ud+4UVg2kdBA==",
+  "success": true,
+  "projectFilePath": "/home/aitemir/csharp_cmd/lessons/lesson_23_tuple_anonymous_type/lesson_23_tuple_anonymous_type/lesson_23_tuple_anonymous_type/lesson_23_tuple_anonymous_type.csproj",
+  "expectedPackageFiles": [
+    "/home/aitemir/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

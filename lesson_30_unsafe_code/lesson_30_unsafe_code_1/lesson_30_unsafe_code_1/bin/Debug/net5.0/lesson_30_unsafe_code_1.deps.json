@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "lesson_30_unsafe_code_1/1.0.0": {
+        "runtime": {
+          "lesson_30_unsafe_code_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lesson_30_unsafe_code_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
